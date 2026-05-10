@@ -17,6 +17,6 @@ A simple number guessing game where players try to guess a randomly generated nu
 ## 🚀 Setup Instructions
 1. Clone this repository:
    ```sh
-   git clone https://github.com/YUsmanDanial04/Guess-Number.git
+   git clone https://github.com/UsmanDanial04/Guess-Number.git
 
    cd Guess-Number
